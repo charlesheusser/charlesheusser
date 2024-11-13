@@ -5,7 +5,7 @@
 -->## Me chamo Charles Heusser Junior, sou Brasileiro, Catarinense, e estou aprendendo Programação em Python!!!!
 
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/charlesheusser">
   <div align="right">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -5,12 +5,14 @@
 -->## Me chamo Charles Heusser Junior, sou Brasileiro, Catarinense, e estou aprendendo Programação em Python!!!!
 
 
-<div align="right">
+<div>
   <a href="https://github.com/charlesheusser">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<div align="eight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesheusser&layout=compact&langs_count=7&theme=dark"/>
+  <div align="right">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
+  <div align="eight">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesheusser&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

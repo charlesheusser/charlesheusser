@@ -8,6 +8,8 @@
 <div align="right">
   <a href="https://github.com/charlesheusser">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="eight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesheusser&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>

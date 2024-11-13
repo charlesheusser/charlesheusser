@@ -2,9 +2,8 @@
 
 <!--
 
--->## Ola, Me chamo Charles Heusser Junior, sou Brasileiro E estou aprendendo Programação em Python!!!!
-<!--
--->##-
+-->## Me chamo Charles Heusser Junior, sou Brasileiro, Catarinense, e estou aprendendo Programação em Python!!!!
+
 
 <div align="center">
   <a href="https://github.com/charlesheusser">

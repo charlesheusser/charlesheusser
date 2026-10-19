@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Charles%20Heusser%20Junior&fontSize=36&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/charlesheusser">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack+%40+ICAVI;React+%2B+TypeScript+%7C+Python+%2F+Flask;Engenharia+de+Software+%E2%80%94+Uniasselvi" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack+%40+HEUSSER+INNOVATIONS;React+%2B+TypeScript+%7C+Python+%2F+Flask;Engenharia+de+Software+%E2%80%94+Uniasselvi" alt="Typing SVG"/>
 </a>
 
 </div>

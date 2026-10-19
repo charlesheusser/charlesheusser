@@ -25,7 +25,7 @@ Me chamo **Charles Heusser Junior**, tenho 25 anos e sou de **Santa Catarina** �
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/charlesheusser/charlesheusser/output/stats.svg" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesheusser&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Langs"/>
 </div>
 

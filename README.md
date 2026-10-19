@@ -30,7 +30,7 @@ Me chamo **Charles Heusser Junior**, tenho 25 anos e sou de **Santa Catarina** ğ
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=charlesheusser&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&locale=pt_br" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/charlesheusser/charlesheusser/output/streak.svg" alt="GitHub Streak"/>
 </div>
 
 ### ğŸ“« Contato

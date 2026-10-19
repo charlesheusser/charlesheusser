@@ -43,7 +43,10 @@ Me chamo **Charles Heusser Junior**, tenho 25 anos e sou de **Santa Catarina** ð
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/charlesheusser/charlesheusser/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesheusser/charlesheusser/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/charlesheusser/charlesheusser/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>

@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Stats card (inclui contribuições privadas) — antes do snk, que cria dist/ como root
+      # Stats card (inclui contribuições privadas)
       - name: Generate stats card
         run: python3 .github/scripts/stats.py
         env:
@@ -21,11 +21,12 @@ jobs:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: charlesheusser
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#1f6feb
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:

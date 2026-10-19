@@ -1,27 +1,49 @@
-### Olá Pessoal! 👋
+<div align="center">
 
-<p>
-  ## Me chamo Charles Heusser Junior, sou Brasileiro, Catarinense!!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Charles%20Heusser%20Junior&fontSize=36&fontColor=ffffff&fontAlignY=38" width="100%"/>
+
+<a href="https://github.com/charlesheusser">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack+%40+ICAVI;React+%2B+TypeScript+%7C+Python+%2F+Flask;Engenharia+de+Software+%E2%80%94+Uniasselvi" alt="Typing SVG"/>
+</a>
+
+</div>
+
+### 👋 Olá, pessoal!
+
+Me chamo **Charles Heusser Junior**, tenho 25 anos e sou de **Santa Catarina** 🇧🇷.
+
+- 💼 Trabalho na **ICAVI**, desenvolvendo o **Portal ICAVI** — sistema web de gestão corporativa (contratos, RH, compras, frota, financeiro, chat em tempo real e mais)
+- 🎓 Estudo **Engenharia de Software** na **Uniasselvi**
+- 🌱 Foco atual: arquitetura de aplicações web, qualidade de código e automação
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,python,flask,mysql,redis,docker,git,github,vscode&theme=dark" alt="Stack"/>
 </p>
 
-<div style="display: inline-block" style="margin-top: 20px;">
-  <a href="https://github.com/charlesheusser">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesheusser&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charlesheusser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesheusser&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Langs"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="charles-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Charles-REACT" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original-wordmark.svg>
-  <img align="center" alt="Charles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=charlesheusser&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&locale=pt_br" alt="GitHub Streak"/>
 </div>
 
-<div> 
-  <a href="https://instagram.com/charles.heusser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/7q3xq62V" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:juninhocharlesheusser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/charles-heusser-junior-2a67a8150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/charles-heusser-junior-2a67a8150" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:juninhocharlesheusser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/charles.heusser" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.gg/7q3xq62V" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/charlesheusser/charlesheusser/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>

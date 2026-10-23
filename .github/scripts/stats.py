@@ -157,18 +157,29 @@ def render_streak(s):
 
 def render(s):
     y = s["year"]
-    rows = [
-        ("Contribuições (último ano)", y["contributionCalendar"]["totalContributions"]),
-        ("Commits (último ano)", y["totalCommitContributions"]),
-        ("Pull requests (último ano)", y["totalPullRequestContributions"]),
-        ("Code reviews (último ano)", y["totalPullRequestReviewContributions"]),
-        ("Issues (último ano)", y["totalIssueContributions"]),
-        ("Repositórios com commits (último ano)", y["totalRepositoriesWithContributedCommits"]),
-        ("Contribuições totais (todos os anos)", s["all_time"]["contributions"]),
-        ("Estrelas recebidas", s["stars"]),
-    ]
-    if y["restrictedContributionsCount"]:
-        rows.insert(2, ("Contribuições privadas (último ano)", y["restrictedContributionsCount"]))
+    private = y["restrictedContributionsCount"]
+    if private:
+        # Sem acesso aos repositórios privados a API só informa o total privado,
+        # sem separar por tipo; linhas por tipo contariam apenas o que é público.
+        rows = [
+            ("Contribuições (último ano)", y["contributionCalendar"]["totalContributions"]),
+            ("Contribuições privadas (último ano)", private),
+            ("Commits públicos (último ano)", y["totalCommitContributions"]),
+            ("Repositórios públicos com commits", y["totalRepositoriesWithContributedCommits"]),
+            ("Contribuições totais (todos os anos)", s["all_time"]["contributions"]),
+            ("Estrelas recebidas", s["stars"]),
+        ]
+    else:
+        rows = [
+            ("Contribuições (último ano)", y["contributionCalendar"]["totalContributions"]),
+            ("Commits (último ano)", y["totalCommitContributions"]),
+            ("Pull requests (último ano)", y["totalPullRequestContributions"]),
+            ("Code reviews (último ano)", y["totalPullRequestReviewContributions"]),
+            ("Issues (último ano)", y["totalIssueContributions"]),
+            ("Repositórios com commits (último ano)", y["totalRepositoriesWithContributedCommits"]),
+            ("Contribuições totais (todos os anos)", s["all_time"]["contributions"]),
+            ("Estrelas recebidas", s["stars"]),
+        ]
 
     line_h, top = 25, 62
     height = top + line_h * len(rows) + 10

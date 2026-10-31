@@ -12,9 +12,9 @@
 
 Me chamo **Charles Heusser Junior**, tenho 25 anos e sou de **Santa Catarina** 🇧🇷.
 
-- 💼 Trabalho na **ICAVI**, desenvolvendo o **Portal ICAVI** — sistema web de gestão corporativa (contratos, RH, compras, frota, financeiro, chat em tempo real e mais)
+- 💼 Trabalho na **ICAVI**, desenvolvendo **Sistemas** aplicações e automações com Inteligência Artificial.
 - 🎓 Estudo **Engenharia de Software** na **Uniasselvi**
-- 🌱 Foco atual: arquitetura de aplicações web, qualidade de código e automação
+- 🌱 Foco atual: arquitetura de aplicações web, inteligência artificail e automação de processos
 
 ### 🛠️ Stack
 

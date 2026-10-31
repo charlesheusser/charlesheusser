@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="240" viewBox="0 0 450 240" role="img" aria-label="Estatísticas do GitHub de Charles Heusser Junior">
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+  .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+  .value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+  .foot { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+</style>
+<rect x="0.5" y="0.5" rx="6" width="449" height="239" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="32" class="title">Estatísticas de Charles Heusser Junior</text>
+<text x="25" y="62" class="label">Contribuições (último ano):</text><text x="425" y="62" class="value" text-anchor="end">2.620</text>
+<text x="25" y="87" class="label">Contribuições privadas (último ano):</text><text x="425" y="87" class="value" text-anchor="end">2.613</text>
+<text x="25" y="112" class="label">Commits públicos (último ano):</text><text x="425" y="112" class="value" text-anchor="end">6</text>
+<text x="25" y="137" class="label">Repositórios públicos com commits:</text><text x="425" y="137" class="value" text-anchor="end">2</text>
+<text x="25" y="162" class="label">Contribuições totais (todos os anos):</text><text x="425" y="162" class="value" text-anchor="end">3.004</text>
+<text x="25" y="187" class="label">Estrelas recebidas:</text><text x="425" y="187" class="value" text-anchor="end">0</text>
+<text x="25" y="228" class="foot">Inclui contribuições privadas · atualizado em 31/10/2026</text>
+</svg>

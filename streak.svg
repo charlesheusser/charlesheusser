@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195" role="img" aria-label="Sequência de contribuições de Charles Heusser Junior">
+<style>
+  .num { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+  .label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+  .sub { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+</style>
+<rect x="0.5" y="0.5" rx="6" width="499" height="194" fill="#0d1117" stroke="#30363d"/>
+<line x1="166" y1="30" x2="166" y2="165" stroke="#30363d"/>
+<line x1="334" y1="30" x2="334" y2="165" stroke="#30363d"/>
+<circle cx="250" cy="64" r="30" fill="none" stroke="#58a6ff" stroke-width="4"/>
+<text x="83" y="74" class="num" text-anchor="middle">3.004</text><text x="83" y="122" class="label" text-anchor="middle">Total de contribuições</text><text x="83" y="146" class="sub" text-anchor="middle">16/03/2022 – hoje</text>
+<text x="250" y="74" class="num" text-anchor="middle">20</text><text x="250" y="122" class="label" text-anchor="middle">Sequência atual</text><text x="250" y="146" class="sub" text-anchor="middle">12/10/2026 – 31/10/2026</text>
+<text x="417" y="74" class="num" text-anchor="middle">20</text><text x="417" y="122" class="label" text-anchor="middle">Maior sequência</text><text x="417" y="146" class="sub" text-anchor="middle">12/10/2026 – 31/10/2026</text>
+<text x="250" y="182" class="sub" text-anchor="middle">Inclui contribuições privadas</text>
+</svg>
